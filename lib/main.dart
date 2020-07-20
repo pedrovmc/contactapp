@@ -7,8 +7,8 @@ import 'package:flutter/material.dart';
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   if (Platform.isIOS) {
+    runApp(IOSApp());
   } else {
     runApp(AndroidApp());
-    // runApp(IOSApp());
   }
 }
