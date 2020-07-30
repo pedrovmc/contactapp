@@ -23,6 +23,8 @@
 - 🍎 **Cupertino Components** — Beautiful and high-fidelity widgets for current iOS design language;
 - 📷 **Câmera Integrated** — Change your contacts image and crop/resize them (only in android for now);
 
+Note: Maps not yet integrated with the app.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
